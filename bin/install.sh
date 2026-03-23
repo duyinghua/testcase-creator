@@ -12,7 +12,7 @@
 
 set -e
 
-readonly SKILL_NAME="general-testcase"
+readonly SKILL_NAME="testcase-creator"
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 PROJECT_ROOT="$(dirname "$SCRIPT_DIR")"
